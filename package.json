@@ -1,0 +1,14 @@
+{
+  "name": "@gausszhou/book",
+  "version": "1.0.0",
+  "author": "gausszhou",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev docs --host",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "1.0.0-rc.45"
+  }
+}
