@@ -39,7 +39,7 @@ function getSidebarByLink(path) {
   fileList.forEach((fileName) => {
     if (isMD(fileName)) {
       if(isREADME(fileName)) {
-        console.log('需要转换为 index.md', path, fileName)
+        console.log('需要转换为 index.md', path +  fileName)
       }
       if (isIndex(fileName)) {
         filenames.unshift({ text: "简介", link: path });

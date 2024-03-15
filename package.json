@@ -1,14 +1,16 @@
 {
-  "name": "@gausszhou/book",
+  "name": "docs.gausszhou.top",
   "version": "1.0.0",
   "author": "gausszhou",
   "private": true,
   "scripts": {
     "dev": "vitepress dev docs --host",
     "build": "vitepress build docs",
+    "zip": "node scripts/compress.js",
     "preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "1.0.0-rc.45"
+    "vitepress": "1.0.0-rc.45",
+    "adm-zip": "^0.5.10"
   }
 }
