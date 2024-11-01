@@ -2,6 +2,13 @@
 
 set -e
 
+rm -rf dist
+
+pnpm i
+
+pnpm build
+
+
 cd dist 
 
 git init
