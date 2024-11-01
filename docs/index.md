@@ -4,29 +4,26 @@ layout: home
 
 hero:
   name: Gauss Zhou
-  text: 2024
+  text: 
   tagline: 种一棵树最好的时间是十年前，其次是现在
   actions:
     - theme: brand
-      text: 深入理解计算机系统
-      link: /computer/computer-system-a-programmer-perspective/
+      text: litegraph
+      link: https://github.com/gausszhou/litegraph
+    - theme: brand
+      text: litegui
+      link: https://github.com/gausszhou/litegui
+    - theme: brand
+      text: heatmap
+      link: https://github.com/gausszhou/heatmap
     - theme: alt
-      text: 计算机是怎么跑起来的
-      link: /computer/how-the-computer-works/
+      text: vue3-drag-resize-rotate
+      link: https://github.com/gausszhou/vue3-drag-resize-rotate
     - theme: alt
-      text: 程序是怎样跑起来的
-      link: /computer/how-the-program-run/
+      text: vue-drag-resize-rotate
+      link: https://github.com/gausszhou/vue-drag-resize-rotate
     - theme: alt
-      text: 网络是怎样连接的
-      link: /computer/how-the-network-connect/
-
-features:
-  - title: 英语
-    details: 世界上最流行的自然语言
-  - title: 数学
-    details: 研究数量、结构以及空间等概念及其变化的一门学科
-  - title: 物理学
-    details: 是研究物质最一般的运动规律和物质基本结构的学科
-
+      text: vscode-ext-color-highlight
+      link: https://github.com/gausszhou/vscode-ext-color-highlight
 ---
 
