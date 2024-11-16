@@ -8,7 +8,6 @@ pnpm i
 
 pnpm build
 
-
 cd dist 
 
 git init

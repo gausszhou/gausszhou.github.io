@@ -1,3 +1,3 @@
 export const navbar = [
-  { text: '首页', link: '/' }
+  { text: 'Knowledge', link: 'https://www.gausszhou.top/' },
 ]
