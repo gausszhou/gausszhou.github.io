@@ -1,3 +1,3 @@
 # gausszhou.github.io
 
-Welcome to my github home page
+Create Something Interesting

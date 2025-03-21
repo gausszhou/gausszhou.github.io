@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: Make Program Great Again
+  name: Create Something Interesting
   text: 
   tagline: 
   actions:
