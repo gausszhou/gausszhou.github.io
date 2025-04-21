@@ -32,16 +32,9 @@ features:
     details: 多功能图片转换器无需上传文件
     link: https://gausszhou.github.io/image-tools/
   - icon: 🛠️
-    title: ES6 迁移工具
-    details: ES5 函数升级到 ES6 Class
-    link: https://gausszhou.github.io/function-to-class/
-  - icon: 🛠️
-    title: Vue3 setup 迁移工具
-    details: （敬请期待）将 Options 语法转换为 Setup 语法
-  - icon: 🛠️
-    title: VS Code 颜色高亮插件
-    details: VS Code 颜色高亮插件，支持全局变量
-    link: https://github.com/gausszhou/vscode-ext-color-highlight/releases  
+    title: Code Tools
+    details: Function 转 Class、Options 转 Composition 
+    link: https://gausszhou.github.io/code-tools/
 
 ---
 
