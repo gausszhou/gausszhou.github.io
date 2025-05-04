@@ -29,12 +29,11 @@ features:
     link: https://gausszhou.github.io/json-tools/
   - icon: 🛠️
     title: Image Tools
-    details: 多功能图片转换器无需上传文件
+    details: 图片转换器，压缩图片为 webp
     link: https://gausszhou.github.io/image-tools/
   - icon: 🛠️
     title: Code Tools
-    details: Function 转 Class、Options 转 Composition 
+    details: 基于 AI 的代码转换工具，Vue2 升级 Vue3, React 类组件升级函数组件 
     link: https://gausszhou.github.io/code-tools/
-
 ---
 
